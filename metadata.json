@@ -1,0 +1,7 @@
+{
+  "name": "Autonomous B2B Revenue Recovery Agent",
+  "description": "Automated B2B overdue invoice recovery engine executing strict compliance guardrails, stopping rules, and multi-tier intervention matrices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
